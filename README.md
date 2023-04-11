@@ -3,6 +3,7 @@
 ## Tecnologias utilizadas:
 * Ubuntu Server
 * Apache 2.4.52
+* Python 3.10.6
 * Samba4 4.15.13 (AD Linux)
 * Kerberos 1.19.2
 * PHP 8.1.2
