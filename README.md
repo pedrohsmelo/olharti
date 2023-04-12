@@ -15,5 +15,5 @@
 >Status: Em Desenvolvimento ⚠️
 
 ## Sobre o projeto:
-Implementação de um servidor de monitoramento e gerenciamento de TI de uma empresa fictícia (Olhar TI), uma empresa com 20 colaboradores e ativos de TI para suprir toda a demanda.  
-Nesse projeto utilizei um servidor local, onde provisionamos o Samba4(AD) como controlador de domínio, o GLPI para realizar o gerenciamento dos ativos de TI, o Zabbix para fazer o monitoramento do servidor e o Grafana como ferramenta de análise desse monitoramento. 
+### Implementação de um servidor de monitoramento e gerenciamento de TI de uma empresa fictícia (Olhar TI). Uma empresa com 20 colaboradores e ativos de TI para suprir toda a demanda.  
+### Nesse projeto utilizei um servidor local, onde provisionei o Samba4(AD) como controlador de domínio, o GLPI para realizar o gerenciamento dos ativos de TI, o Zabbix para fazer o monitoramento do servidor e o Grafana como ferramenta de análise desse monitoramento. 
