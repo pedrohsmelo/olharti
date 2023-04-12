@@ -1,7 +1,7 @@
 # Servidor de Monitoramento e Gerenciamento de TI
 
 ## Tecnologias utilizadas:
-* Ubuntu Server
+* Ubuntu Server 22.04
 * Apache 2.4.52
 * Python 3.10.6
 * Samba 4.15.13 (AD Linux)
