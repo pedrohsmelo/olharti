@@ -22,4 +22,6 @@
 ## Passo a passo de como realizar o provisionamento de um servidor como esse:
 
 **1. Primeiramente precisamos de uma máquina para utilizar como servidor. Podemos instalar o Ubuntu server tanto em uma maquina fisica, em uma VM que está alocada em uma máquina fisica ou até uma VM em núvem.**
+**2. Agora precisamos instalar o sistema operacional nesse sistema. Eu optei pelo Ubuntu Server 22.04, mas somente por preferencia pessoal.**
 
+![Terminal]
